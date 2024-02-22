@@ -16,20 +16,14 @@
 </p>
 
 <p align="center">
-여러분이 만든 프로젝트를 캡쳐하거나 <strong>GIF</strong> 화면으로 만들어 <br />
-상대방이 프로젝트를 예시로 한 번에 볼수 있게 만들어주는게 좋습니다.<br />
-또는 배포하여 프로젝트 사이트를 올려도 좋습니다.<br />
-<strong>GIF</strong> 또는 <strong>Images</strong>
+  
+![11](https://github.com/rjswh0503/Travel_Jaeheon/assets/141482043/9d93b9ee-32f7-4dfe-b0f0-aeb13bb551aa)
 </p>
 
-<br>
 
 ## 기술 스택
 
-| JavaScript |    Java    | 
-| :--------: | :--------: | 
-|   ![js]    |  ![java]   | 
-01
+
 <br>
 
 ## 구현 기능
