@@ -25,36 +25,43 @@
 
 ## 기술 스택
 
+Java 
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+
+Server 
+<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
+
+
+frontend 
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"> 
+
+
 
 <br>
 
 ## 구현 기능
 
 ### 기능 1
+메인페이지 첫 화면에서 top여행지 와 로그인을 할 수 있는 기능을 구현 했습니다.
+로그인을 클릭을 하면 로그인페이지로 이동할 수 있게 만들었습니다.
 
 ### 기능 2
-
-### 기능 3
-
-### 기능 4
+메인페이지에서 로그인을 하게 되면 세션을 통해 로그인 정보를 저장한 다음 카테고리 페이지로 이동을 하게 됩니다.
+각 도시별 카테고리를 클릭하여 도시별 식당, 관광지, 호텔 관련 정보를 얻을 수 있습니다.
 
 <br>
 
 ## 배운 점 & 아쉬운 점
 
 <p align="justify">
-mvc 패턴을 더 자세히 배울 수 있어서 좋
-여러분이 프로젝트를 진행하며 배운 부분과 에러해결(trouble shooting)을 작성해서 기술하면 좋습니다.<br />
-트러블슈팅(trouble shooting) : 문제 해결의 일종 / 보통 컴퓨터 시스템에서 발생하는 문제들을 해결하는 용어로 많이 사용합니다.
+이번 프로젝트를 통해 MVC 패턴에 대해  알 수 있었고 팀원들과의 소통을 배웠습니다.
 </p>
 
-아쉬운점 12/13 해결해야할 점
-중복된 코드 재사용성으로 변경해서 코드 정렬
-MVC : DTO DAO
+아쉬운 점은 생각보다 많은 오류들을 혼자 해결하지 못한 것에 대해 아쉬웠습니다. 
+이번 프로젝트를 통해 혼자 스스로 해결하는 개발자가 되었으면 좋겠습니다.
 <br>
 
-
-<!-- Stack Icon Refernces -->
-
-[js]: ./readme-static/img/javascript.svg
-[java]: ./readme-static/img/java.svg
