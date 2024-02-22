@@ -3,7 +3,7 @@
 
 <p align="center">
   <br>
-  ![image](https://github.com/rjswh0503/Travel_Jaeheon/assets/141482043/8614c682-7a51-427f-87b5-2fe0a26f8fc0)
+ ![image](https://github.com/rjswh0503/Travel_Jaeheon/assets/141482043/1b93b118-734a-41e8-8e75-401b19ba90d8)
   <br>
 </p>
 
