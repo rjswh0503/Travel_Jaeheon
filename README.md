@@ -1,4 +1,4 @@
-### README sample (프로젝트 리드미 사용 방법)
+# Semi-project 
 # 떠나조
 
 <p align="center">
