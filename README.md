@@ -2,9 +2,9 @@
 # 떠나조
 
 <p align="center">
-  <br>
+  
  ![그림](https://github.com/rjswh0503/Travel_Jaeheon/assets/141482043/9264ced4-5860-4981-bdb6-85d72c1d34f5)
-  <br>
+
 </p>
 
 
